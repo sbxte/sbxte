@@ -1,4 +1,4 @@
-### Hi there 👋
+### Block game go brrr.
 
 <!--
 **StormyBytes/StormyBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![SB-LOGO-animated-v1.1-loop.gif](https://s4.gifyu.com/images/SB-LOGO-animated-v1.1-loop.gif)](https://gifyu.com/image/aeQw)
