@@ -1,10 +1,7 @@
 ### Block game go brrr.
-
 <!--
 **StormyBytes/StormyBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,13 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![SB-LOGO-animated-v1.1-loop.gif](https://s4.gifyu.com/images/SB-LOGO-animated-v1.1-loop.gif)](https://gifyu.com/image/aeQw)
-
-<p align="center">
+<p align="left">
    <img src="https://komarev.com/ghpvc/?username=StormyBytes" alt="StormyBytes"/>
 </p>
 
-<p align="center">
+<p align="left">
 <img alt="My repo stats" src="https://github-readme-stats.vercel.app/api?username=StormyBytes&show_icons=true&theme=radical">
 </p>
+
+[![SB-LOGO-animated-v1.1-loop.gif](https://s4.gifyu.com/images/SB-LOGO-animated-v1.1-loop.gif)](https://gifyu.com/image/aeQw)
