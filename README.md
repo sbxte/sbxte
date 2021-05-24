@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 [![SB-LOGO-animated-v1.1-loop.gif](https://s4.gifyu.com/images/SB-LOGO-animated-v1.1-loop.gif)](https://gifyu.com/image/aeQw)
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=StormyBytes" alt="StormyBytes"/>
+</p>
+
+<p align="center">
+<img alt="My repo stats" src="https://github-readme-stats.vercel.app/api?username=StormyBytes&show_icons=true&theme=radical">
+</p>
