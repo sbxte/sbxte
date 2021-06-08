@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <img alt="My repo stats" src="https://github-readme-stats.vercel.app/api?username=StormyBytes&show_icons=true&theme=radical">
 </p>
 
-[![SB-LOGO-animated-v1.1-loop.gif](https://s4.gifyu.com/images/SB-LOGO-animated-v1.1-loop.gif)](https://gifyu.com/image/aeQw)
+![SB LOGO animated v1 2](https://user-images.githubusercontent.com/72693226/121264863-0c551a00-c8e2-11eb-9867-b805878a56c8.gif)
