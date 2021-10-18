@@ -1,4 +1,3 @@
-### Block game go brrr.
 <!--
 **StormyBytes/StormyBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -11,10 +10,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
-   <img src="https://komarev.com/ghpvc/?username=StormyBytes" alt="StormyBytes"/>
-</p>
 
-<p align="left">
-<img alt="My repo stats" src="https://github-readme-stats.vercel.app/api?username=StormyBytes&show_icons=true&theme=radical">
-</p>
+<div align="center">
+   <h1>Block game go brrr</h1>
+   <img src="https://komarev.com/ghpvc/?username=StormyBytes">
+   <img src="https://img.shields.io/badge/Spaghetti-Code-orange">
+   <a href="https://minecraft.net/"><img src="https://img.shields.io/badge/Minecraft%20Veteran-9%20Years-green"></a>
+   <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/badge/Meteor%20Client-Staff-blueviolet"></a>
+
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=StormyBytes&show_icons=true&theme=radical">
+</div>
