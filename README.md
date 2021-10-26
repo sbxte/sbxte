@@ -16,7 +16,7 @@ Here are some ideas to get you started:
    <img src="https://komarev.com/ghpvc/?username=StormyBytes">
    <img src="https://img.shields.io/badge/Spaghetti-Code-orange">
    <a href="https://minecraft.net/"><img src="https://img.shields.io/badge/Minecraft%20Veteran-9%20Years-green"></a>
-   <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/badge/Meteor%20Client-Staff-blueviolet"></a>
+   <!-- <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/badge/Meteor%20Client-Staff-blueviolet"></a> -->
 
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=StormyBytes&show_icons=true&theme=radical">
