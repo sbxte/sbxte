@@ -1,0 +1,73 @@
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["test", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+        # Token
+          token: ${{ secrets.METRICS }}
+
+        # Options
+          user: StormyBytes
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 0
+
+          # Activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_visibility: public
+
+          # Issue and PR follow ups
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
+          # Habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+          # Isometric Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Languages
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_threshold: 4%
+
+          # Code changes
+          plugin_lines: yes
+
+          # People (followers and such)
+          # plugin_people: yes
+          # plugin_people_limit: 28
+          # plugin_people_size: 28
+          # plugin_people_types: followers, following
+
+          # Stargazers
+          # plugin_stargazers: yes
+
+          # Projects
+          plugin_projects: yes
+          plugin_projects_limit: 4
+
