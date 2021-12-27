@@ -1822,7 +1822,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 2 edited files from 5 commits over last 10 days
+            estimation from 29 edited files from 5 commits over last 11 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -3308,7 +3308,7 @@ koeding on Dae fone</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2021, 23:02:07 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Dec 2021, 03:02:10 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
