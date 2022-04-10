@@ -450,8 +450,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.68388371436635" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="429.68388371436635" y="0" width="30.316116285633644" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.3704180064309" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="432.3704180064309" y="0" width="27.629581993569133" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -463,8 +463,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>6.62 kB</div>
-                                <div>93.41%</div>
+                                <div>7.31 kB</div>
+                                <div>93.99%</div>
                             </small>
                         </div>
                     </section>
@@ -478,7 +478,7 @@
                             </div>
                             <small>
                                 <div>467 bytes</div>
-                                <div>6.59%</div>
+                                <div>6.01%</div>
                             </small>
                         </div>
                     </section>
@@ -665,12 +665,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 75.18432585717969%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 74.80533926585095%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">94%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 4.815674142820314%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.194660734149055%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                         </div>
@@ -1954,7 +1954,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2022, 19:07:41 (timezone Asia/Jakarta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 10 Apr 2022, 23:02:17 (timezone Asia/Jakarta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
