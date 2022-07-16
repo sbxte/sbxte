@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2016" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2100" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    40 Releases
+                                    41 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -470,17 +470,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 70.7kb of code in 56 edited files across 96 commits over last 8 days</small>
+                <small>estimation from 70.5kb of code in 56 edited files across 98 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.6392215800809" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="324.6392215800809" y="0" width="57.288855146341085" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="381.92807672642203" y="0" width="29.093444477154055" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="411.02152120357607" y="0" width="27.211849831889808" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.2333710354659" y="0" width="21.76662896453417" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.4618586159772" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="325.4618586159772" y="0" width="57.478568766306374" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="382.94042738228353" y="0" width="27.967759970182634" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="410.9081873524662" y="0" width="27.27481674742204" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.18300409988825" y="0" width="21.816995900111817" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -493,7 +493,7 @@
                             </div>
                             <small>
                                 <div>45.5 kB</div>
-                                <div>70.57%</div>
+                                <div>70.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -504,8 +504,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>4.08 kB</div>
-                                <div>6.32%</div>
+                                <div>3.92 kB</div>
+                                <div>6.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -517,7 +517,7 @@
                             </div>
                             <small>
                                 <div>3.05 kB</div>
-                                <div>4.73%</div>
+                                <div>4.74%</div>
                             </small>
                         </div>
                     </section>
@@ -530,8 +530,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>8.04 kB</div>
-                                <div>12.45%</div>
+                                <div>8.05 kB</div>
+                                <div>12.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -543,7 +543,7 @@
                             </div>
                             <small>
                                 <div>3.82 kB</div>
-                                <div>5.92%</div>
+                                <div>5.93%</div>
                             </small>
                         </div>
                     </section>
@@ -567,7 +567,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 96 commits)</small>
+                    <small class="h-details">(computed from last 98 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -593,8 +593,8 @@
                             09
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -694,8 +694,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">12</span>
-                                <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">14</span>
+                                <div class="bar" style="height: 26.923076923076923px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -705,27 +705,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 51.553719475962765%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">64%</span>
+                                <div class="bar" style="width: 51.67982984757178%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">65%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 9.058034577403017%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 9.078199220134703%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 4.620129594521943%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.4409783764622475%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 4.321326504626355%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.330946472881957%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 3.4566084717466965%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.464303438496987%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -1780,8 +1780,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4b873f6</div>
-                                        <div class="message">Deploying to gh-pages from @ StormyBytes/mindustry-client@82a37db1c4934e616b42f0507a929cb4e64f7b06 🚀</div>
+                                        <div class="sha">#62d9f9f</div>
+                                        <div class="message">Deploying to gh-pages from @ StormyBytes/mindustry-client@9ba8872d5b791f140d74cade5521d8983b5e186c 🚀</div>
                                     </div>
                                 </div>
                             </section>
@@ -1795,7 +1795,7 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">65</span>
+                                        <span class="code">66</span>
                                         in
                                         <span class="repo">StormyBytes/mindustry-client-builds</span>
                                     </div>
@@ -1810,9 +1810,46 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">Unstable 65 (82a37db)</span>
+                                        <span class="bold">Unstable 66 (9ba8872)</span>
                                         of
                                         <span class="repo">StormyBytes/mindustry-client-builds</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">StormyBytes/mindustry-client</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">flarogus</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9ba8872</div>
+                                        <div class="message">Fix msgFormat: powerwarn and attem placed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#628934e</div>
+                                        <div class="message">Minor change to !voids output text</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c8ddd4</div>
+                                        <div class="message">Merge remote-tracking branch 'upstream/v7' into flarogus
+
+- Fix AutoTransfer's min 5 requirement.
+- Only add attemwarfare config if its our team.
+- Added ClientUtilsKt.getPlayer()
+- Minor change to !silicone</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fd5167</div>
+                                        <div class="message">Cleanup and optimizing</div>
                                     </div>
                                 </div>
                             </section>
@@ -1831,24 +1868,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bf367cc</div>
-                                        <div class="message">Deploying to gh-pages from @ StormyBytes/mindustry-client@623bea058d4658d400879427cef4ebd4caf96d97 🚀</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">64</span>
-                                        in
-                                        <span class="repo">StormyBytes/mindustry-client-builds</span>
+                                        <div class="sha">#4b873f6</div>
+                                        <div class="message">Deploying to gh-pages from @ StormyBytes/mindustry-client@82a37db1c4934e616b42f0507a929cb4e64f7b06 🚀</div>
                                     </div>
                                 </div>
                             </section>
@@ -2046,7 +2067,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jul 2022, 07:32:32 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 16 Jul 2022, 11:16:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
