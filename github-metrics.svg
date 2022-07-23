@@ -470,17 +470,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 70kb of code in 71 edited files across 125 commits over last 12 days</small>
+                <small>estimation from 71kb of code in 71 edited files across 125 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.3835654510083" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="323.3835654510083" y="0" width="49.97313405181731" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="373.35669950282556" y="0" width="37.83497514127783" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="411.1916746441034" y="0" width="27.11731464039774" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.30898928450114" y="0" width="21.691010715498873" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.166433736404" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="318.166433736404" y="0" width="56.588078021510604" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="374.7545117579146" y="0" width="37.22458528285836" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="411.97909704077296" y="0" width="26.67983229021085" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.65892933098377" y="0" width="21.341070669016222" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -493,7 +493,7 @@
                             </div>
                             <small>
                                 <div>45.5 kB</div>
-                                <div>70.3%</div>
+                                <div>69.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -505,7 +505,7 @@
                             </div>
                             <small>
                                 <div>5.33 kB</div>
-                                <div>8.22%</div>
+                                <div>8.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -517,7 +517,7 @@
                             </div>
                             <small>
                                 <div>3.05 kB</div>
-                                <div>4.72%</div>
+                                <div>4.64%</div>
                             </small>
                         </div>
                     </section>
@@ -530,8 +530,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>7.04 kB</div>
-                                <div>10.86%</div>
+                                <div>8.10 kB</div>
+                                <div>12.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -543,7 +543,7 @@
                             </div>
                             <small>
                                 <div>3.82 kB</div>
-                                <div>5.9%</div>
+                                <div>5.8%</div>
                             </small>
                         </div>
                     </section>
@@ -2068,7 +2068,7 @@ Thats a setting anyways, you can change it. Its default mine path args under the
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2022, 11:19:35 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 23 Jul 2022, 15:07:28 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
