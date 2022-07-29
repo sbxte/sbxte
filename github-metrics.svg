@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2083" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2066" class="">
     <defs>
         <style/>
     </defs>
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    92 Releases
+                                    94 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -470,17 +470,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 74.9kb of code in 76 edited files across 133 commits over last 14 days</small>
+                <small>estimation from 74.4kb of code in 76 edited files across 130 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="316.9973068659787" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="316.9973068659787" y="0" width="50.07564983205737" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="367.0729566980361" y="0" width="45.09940387932338" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="412.1723605773595" y="0" width="26.57245740914455" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.744817986504" y="0" width="21.25518201349593" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="319.135202644044" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="319.135202644044" y="0" width="47.172121784425116" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="366.30732442846914" y="0" width="45.54670484487564" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="411.8540292733448" y="0" width="26.749318427585788" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.60334770093056" y="0" width="21.39665229906941" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -493,7 +493,7 @@
                             </div>
                             <small>
                                 <div>45.5 kB</div>
-                                <div>68.91%</div>
+                                <div>69.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -504,8 +504,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>6.48 kB</div>
-                                <div>9.8%</div>
+                                <div>6.50 kB</div>
+                                <div>9.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -517,7 +517,7 @@
                             </div>
                             <small>
                                 <div>3.05 kB</div>
-                                <div>4.62%</div>
+                                <div>4.65%</div>
                             </small>
                         </div>
                     </section>
@@ -530,8 +530,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>7.20 kB</div>
-                                <div>10.89%</div>
+                                <div>6.73 kB</div>
+                                <div>10.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -543,7 +543,7 @@
                             </div>
                             <small>
                                 <div>3.82 kB</div>
-                                <div>5.78%</div>
+                                <div>5.82%</div>
                             </small>
                         </div>
                     </section>
@@ -668,13 +668,13 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">7</span>
-                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">6</span>
+                            <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             17
                         </div>
                         <div class="entry">
-                            <span class="value">11</span>
-                            <div class="bar" style="height: 39.285714285714285px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">9</span>
+                            <div class="bar" style="height: 32.142857142857146px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             18
                         </div>
                         <div class="entry">
@@ -688,13 +688,13 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             22
                         </div>
                         <div class="entry">
@@ -750,27 +750,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 51.73590799375266%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">65%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Java</span>
-                                <div class="bar" style="width: 5.590799375266222%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 51.02895871842267%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">64%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 5.2602584126082625%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 6.782053436397244%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Java</span>
+                                <div class="bar" style="width: 4.9963591553240345%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 4.336788300440154%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.277152299333445%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 3.468976288513417%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.4212737355066376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -1820,8 +1820,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f59692c</div>
-                                        <div class="message">Deploying to gh-pages from @ StormyBytes/mindustry-client@557c7ca86399e912d364ef6e279ac269bf218226 🚀</div>
+                                        <div class="sha">#cb0b4b4</div>
+                                        <div class="message">Deploying to gh-pages from @ StormyBytes/mindustry-client@f66d84ba43bcd86deaac62b65214afaf3b64c98e 🚀</div>
                                     </div>
                                 </div>
                             </section>
@@ -1835,7 +1835,7 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">125</span>
+                                        <span class="code">127</span>
                                         in
                                         <span class="repo">StormyBytes/mindustry-client-builds</span>
                                     </div>
@@ -1850,7 +1850,7 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">Unstable 125 (557c7ca)</span>
+                                        <span class="bold">Unstable 127 (f66d84b)</span>
                                         of
                                         <span class="repo">StormyBytes/mindustry-client-builds</span>
                                     </div>
@@ -1864,29 +1864,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">StormyBytes/mindustry-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">flarogus</span></div>
                                     <div class="commit">
-                                        <div class="sha">#557c7ca</div>
-                                        <div class="message">Fix player list not overflowing because mute button</div>
+                                        <div class="sha">#f66d84b</div>
+                                        <div class="message">Split unitranges into enemy and ally</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8aca2c2</div>
-                                        <div class="message">Merge remote-tracking branch 'foos/v7' into flarogus</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15bd725</div>
-                                        <div class="message">Update bundle_zh_CN.properties (#92)
-
-* Update bundle_zh_CN.properties
-
-* Update bundle_zh_CN.properties
-
-* Update bundle_zh_CN.properties</div>
+                                        <div class="sha">#45c1556</div>
+                                        <div class="message">Make decreased drift a setting</div>
                                     </div>
                                 </div>
                             </section>
@@ -1905,8 +1895,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e8cc125</div>
-                                        <div class="message">Deploying to gh-pages from @ StormyBytes/mindustry-client@806ba737c990b425bf170c90457b44fc28696623 🚀</div>
+                                        <div class="sha">#30513c9</div>
+                                        <div class="message">Deploying to gh-pages from @ StormyBytes/mindustry-client@835209a0d8ad2ac76acc724e67a0036f3c50efc7 🚀</div>
                                     </div>
                                 </div>
                             </section>
@@ -2104,7 +2094,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2022, 19:11:01 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 29 Jul 2022, 23:02:54 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
