@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2413" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2729" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            758 Commits
+                            762 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -470,16 +470,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 81.5kb of code in 80 edited files across 129 commits over last 13 days</small>
+                <small>estimation from 83.4kb of code in 80 edited files across 132 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.40458744823195" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="290.40458744823195" y="0" width="84.45364765848997" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="374.85823510672196" y="0" width="60.81554635234151" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="435.67378145906343" y="0" width="24.326218540936605" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.6244523263092" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="291.6244523263092" y="0" width="84.15578273871618" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="375.7802350650254" y="0" width="59.791362403505104" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="435.57159746853057" y="0" width="24.4284025314695" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -492,7 +492,7 @@
                             </div>
                             <small>
                                 <div>45.5 kB</div>
-                                <div>63.13%</div>
+                                <div>63.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -503,8 +503,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>9.54 kB</div>
-                                <div>13.22%</div>
+                                <div>9.35 kB</div>
+                                <div>13%</div>
                             </small>
                         </div>
                     </section>
@@ -517,8 +517,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>13.2 kB</div>
-                                <div>18.36%</div>
+                                <div>13.1 kB</div>
+                                <div>18.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -530,7 +530,7 @@
                             </div>
                             <small>
                                 <div>3.82 kB</div>
-                                <div>5.29%</div>
+                                <div>5.31%</div>
                             </small>
                         </div>
                     </section>
@@ -554,12 +554,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 95 commits)</small>
+                    <small class="h-details">(computed from last 97 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 21.8 characters per line of code written</li>
+                        <li>Has approximately 21.7 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -570,8 +570,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -580,8 +580,8 @@
                             01
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             02
                         </div>
                         <div class="entry">
@@ -685,8 +685,8 @@
                             22
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             23
                         </div>
                     </div>
@@ -701,8 +701,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">18</span>
-                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">20</span>
+                                <div class="bar" style="height: 37.03703703703704px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -737,27 +737,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 44.794417896146335%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 44.73792697290931%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">56%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 12.27964571330295%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 12.36454652532391%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 7.829686866577399%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.819984295249313%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 3.75219586501726%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.7475461327051436%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 3.0013635861086203%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.9976442873969376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -1811,6 +1811,195 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">mindustry-antigrief/io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">flood-136-wip</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8926597</div>
+                                        <div class="message">this again h</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mindustry-antigrief/io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">flood-136-wip</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dc4a7a5</div>
+                                        <div class="message">how was the import even gone</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">mindustry-antigrief/io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">flood-136-wip</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9be9502</div>
+                                        <div class="message">flabel (#6698)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf25836</div>
+                                        <div class="message">Allow multiple Call#sound calls per frame</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43c7ece</div>
+                                        <div class="message">commmunityHosts (#6697)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43e4219</div>
+                                        <div class="message">casing flipping (#6696)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af76906</div>
+                                        <div class="message">Allow unit build with world processors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91f19a5</div>
+                                        <div class="message">Misc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb9fa31</div>
+                                        <div class="message">Fixed darkness offset</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41b22ba</div>
+                                        <div class="message">Update Contributors (#6689)
+
+Translation, I would also like to translate later versions of game :)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1fed03</div>
+                                        <div class="message">Update bundle_pl.properties (#6688)
+
+Open Games &amp; Local Servers - Otwieraj Gry &amp; Lokalne Serwery 
+Search maps-Przeszukaj mapy...
+Filter Maps-Przefiltruj Mapy
+Gamemodes-Tryby Gry
+Map Type-Typ Mapy
+Search In-Szukaj W
+Author-Autor
+Description-Opis
+Sort By-Sortuj Według
+Reverse Sort-Odwrotne Sortowanie
+Begin-Rozpocznij
+Health-Zdrowie
+Type-Typ
+Hide All-Schowaj Wszystkie
+Show All-Pokaż Wszystkie
+Rotate-Obróć
+Replacement-Zastąpienie
+Banned Units-Zabronione jednostki
+Sectors-Sektory
+Repair Speed-Prędkość Napraw
+Skip Core Launch/Land Animation-Pomiń Animację Wystrzału/Lądowania
+Enemy Team-Drużyna Wroga
+Player Team-Drużyna Gracza
+Teams-Drużyny
+Rdzeń Spala Nadmarowe Przedmioty-Rdzeń Spala Nadmiarowe Przedmioty ("i" was missing and word had mistake)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4462bcc</div>
+                                        <div class="message">in_ID bundle update (#6682)
+
+* Removed unnecessary words and re-added missing translations
+
+* Main bundle parity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99a3967</div>
+                                        <div class="message">Update servers_v6.json (#6680)
+
+Fixed the original Hungarian mindustry ddns</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee64dcc</div>
+                                        <div class="message">Block index fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7faa0f1</div>
+                                        <div class="message">Make closestEnemyCore find the actual closest core (#6676)
+
+* Make closestEnemyCore find the actual closest core
+
+this function should return the closest core of all of `team`’s enemies, but it instead returns the closest core of the first enemy team that has a core
+
+* Glenn method</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47b8e8d</div>
+                                        <div class="message">Add new server address (#6655)
+
+I'd like to add my dedicated server to the official list.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2fc824</div>
+                                        <div class="message">Add `tinylake` server to v7 list (#6674)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3ab407</div>
+                                        <div class="message">Re-Added Rapid to Omega (#6675)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0ac84f</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/Anuken/Mindustry into 7.0-features
+
+ Conflicts:
+	core/src/mindustry/core/NetServer.java</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4e5fde</div>
+                                        <div class="message">a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bfc23c</div>
+                                        <div class="message">Cease node dumbness (#6670)
+
+* Cease.
+
+* Mobile players are second rate citizens
+
+* Undo config on ratelimit, revert PowerNode for loop
+
+* Fix being unable to drop items into core vaults when there are over 1k of the item already</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12e1f32</div>
+                                        <div class="message">testing compile times with gradle action</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">StormyBytes/mindustry-client</span>
                                     </div>
                                 </div>
@@ -1927,66 +2116,6 @@ Update bundle_zh_CN.properties</div>
                                     <div class="commit">
                                         <div class="sha">#c775f86</div>
                                         <div class="message">Reset turret void warn 5 seconds after last warn</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mindustry-antigrief/io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">flood-136-wip</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#44614ef</div>
-                                        <div class="message">Even more merge fixes</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mindustry-antigrief/io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">flood-136-wip</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#70eeddc</div>
-                                        <div class="message">More merge fixes</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">StormyBytes/mindustry-client-builds</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">gh-pages</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e610996</div>
-                                        <div class="message">Deploying to gh-pages from @ StormyBytes/mindustry-client@82fc8504b4c0f91984bbc0faabc182ef159f59c1 🚀</div>
                                     </div>
                                 </div>
                             </section>
@@ -2184,7 +2313,7 @@ Update bundle_zh_CN.properties</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2022, 23:02:00 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 1 Aug 2022, 03:01:59 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
