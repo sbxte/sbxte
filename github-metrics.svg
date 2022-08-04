@@ -470,16 +470,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 81.2kb of code in 82 edited files across 136 commits over last 13 days</small>
+                <small>estimation from 83.3kb of code in 82 edited files across 136 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.319259012016" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="291.319259012016" y="0" width="85.2008233199822" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="376.52008233199825" y="0" width="59.05457276368491" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="435.5746550956831" y="0" width="24.42534490431687" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.6234390009606" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="291.6234390009606" y="0" width="84.80947806596221" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="376.43291706692287" y="0" width="59.11623439000961" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="435.54915145693246" y="0" width="24.450848543067565" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -492,7 +492,7 @@
                             </div>
                             <small>
                                 <div>45.5 kB</div>
-                                <div>63.33%</div>
+                                <div>63.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -504,7 +504,7 @@
                             </div>
                             <small>
                                 <div>9.23 kB</div>
-                                <div>12.84%</div>
+                                <div>12.85%</div>
                             </small>
                         </div>
                     </section>
@@ -517,8 +517,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>13.3 kB</div>
-                                <div>18.52%</div>
+                                <div>13.2 kB</div>
+                                <div>18.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -530,7 +530,7 @@
                             </div>
                             <small>
                                 <div>3.82 kB</div>
-                                <div>5.31%</div>
+                                <div>5.32%</div>
                             </small>
                         </div>
                     </section>
@@ -737,27 +737,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 44.823190688288996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 44.880068004582924%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">56%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 11.894578832098826%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 11.909672173559523%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 8.162019834141299%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.070862746547412%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 3.758151438344366%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.7629202547707923%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 3.0061274208233875%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.009941974350445%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -2143,7 +2143,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2022, 07:34:45 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 4 Aug 2022, 11:30:07 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
