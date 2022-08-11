@@ -37,11 +37,12 @@ jobs:
       - name: Checkout auto updating branch
         run: git checkout auto
 
+      - name: Update metrics
       - uses: lowlighter/metrics@latest
         with:
         # Plugin error
         plugins_errors_fatal: yes
-        
+
         # Token
           token: ${{ secrets.METRICS }}
 
