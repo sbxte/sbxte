@@ -4,13 +4,44 @@ on:
   schedule: [{cron: "0 */4 * * * "}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
+  workflow_call:
+    secrets:
+      METRICS_TOKEN:
+        required: true
+      METRICS_TOKEN_WITH_SCOPES:
+        required: true
+      METRICS_TOKEN_PERSONAL:
+        required: true
+      PAGESPEED_TOKEN:
+        required: true
+      GOOGLE_MAP_TOKEN:
+        required: true
+      SPOTIFY_TOKENS:
+        required: true
+      STOCK_TOKEN:
+        required: true
+      TWITTER_TOKEN:
+        required: true
+      WAKATIME_TOKEN:
+        required: true
   push: {branches: ["test", "auto"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Checkout auto updating branch
+        run: git checkout auto
+
       - uses: lowlighter/metrics@latest
         with:
+        # Plugin error
+        plugins_errors_fatal: yes
+        
         # Token
           token: ${{ secrets.METRICS }}
 
