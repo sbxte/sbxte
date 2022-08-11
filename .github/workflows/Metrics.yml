@@ -38,7 +38,7 @@ jobs:
         run: git checkout auto
 
       - name: Update metrics
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
         # Plugin error
         plugins_errors_fatal: yes
