@@ -36,7 +36,6 @@ jobs:
           fetch-depth: 0
       - name: Checkout auto updating branch
         run: git checkout auto
-
       - name: Update metrics
         uses: lowlighter/metrics@latest
         with:
