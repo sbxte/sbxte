@@ -25,7 +25,8 @@ on:
         required: true
       WAKATIME_TOKEN:
         required: true
-  push: {branches: ["test", "auto"]}
+  push:
+  - branches: ["test", "auto", "main"]
 
 jobs:
   github-metrics:
