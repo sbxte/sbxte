@@ -470,14 +470,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 11.5kb of code in 33 edited files across 21 commits over last 14 days</small>
+                <small>estimation from 11.3kb of code in 33 edited files across 21 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.02814443111157" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="426.02814443111157" y="0" width="33.9718555688884" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.31298730229446" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="425.31298730229446" y="0" width="34.687012697705505" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -489,8 +489,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>8.49 kB</div>
-                                <div>92.61%</div>
+                                <div>8.30 kB</div>
+                                <div>92.46%</div>
                             </small>
                         </div>
                     </section>
@@ -504,7 +504,7 @@
                             </div>
                             <small>
                                 <div>677 bytes</div>
-                                <div>7.39%</div>
+                                <div>7.54%</div>
                             </small>
                         </div>
                     </section>
@@ -2272,7 +2272,7 @@ how about just fixing it on your end? you're a cs student and its just a few wor
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2022, 03:28:35 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 2 Nov 2022, 04:24:23 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
