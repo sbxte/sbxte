@@ -476,8 +476,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.06146469049696" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="426.06146469049696" y="0" width="33.93853530950305" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.02814443111157" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="426.02814443111157" y="0" width="33.9718555688884" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -489,8 +489,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>8.50 kB</div>
-                                <div>92.62%</div>
+                                <div>8.49 kB</div>
+                                <div>92.61%</div>
                             </small>
                         </div>
                     </section>
@@ -504,7 +504,7 @@
                             </div>
                             <small>
                                 <div>677 bytes</div>
-                                <div>7.38%</div>
+                                <div>7.39%</div>
                             </small>
                         </div>
                     </section>
@@ -2272,7 +2272,7 @@ how about just fixing it on your end? you're a cs student and its just a few wor
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2022, 04:19:57 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 4 Nov 2022, 05:21:15 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
