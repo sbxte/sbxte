@@ -476,8 +476,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.91089576932166" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="266.91089576932166" y="0" width="193.08910423067834" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.0932703659976" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="267.0932703659976" y="0" width="192.90672963400237" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -489,8 +489,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>4.91 kB</div>
-                                <div>58.02%</div>
+                                <div>4.92 kB</div>
+                                <div>58.06%</div>
                             </small>
                         </div>
                     </section>
@@ -504,7 +504,7 @@
                             </div>
                             <small>
                                 <div>3.55 kB</div>
-                                <div>41.98%</div>
+                                <div>41.94%</div>
                             </small>
                         </div>
                     </section>
@@ -686,12 +686,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 32.04380737638911%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 31.826565280698915%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">40%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 22.88291190207763%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 22.986571752143664%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">29%</span>
                             </div>
                         </div>
@@ -2102,7 +2102,7 @@ TODO: Make MinePath core tp not broken on mix tech maps (if mix tech is still a 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2022, 20:33:30 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 5 Nov 2022, 21:20:46 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
