@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1376 Commits
+                            1377 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.69k added, 1.61k removed
+                                    27k added, 7.27k removed
                                 </div>
                             </section>
                             <section>
@@ -470,7 +470,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 16.8kb of code in 32 edited files across 21 commits over last 13 days</small>
+                <small>estimation from 16.8kb of code in 32 edited files across 22 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -528,14 +528,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 21 commits)</small>
+                    <small class="h-details">(computed from last 22 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 58.9 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
-                        <li>Mostly active on Saturday</li>
+                        <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
@@ -644,8 +644,8 @@
                             19
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             20
                         </div>
                         <div class="entry">
@@ -690,8 +690,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">5</span>
-                                <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">6</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -1754,6 +1754,229 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 55 commits in
+                                        <span class="repo">mindustry-antigrief/mindustry-client</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">v7</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c1e783b</div>
+                                        <div class="message">PayloadSource UnitCreateEvent</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3dfb8c4</div>
+                                        <div class="message">Automatic bundle update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d81500d</div>
+                                        <div class="message">german translation (again) (#7232)
+
+* update to 9a3a6c31b3401d9e5c86d3e198c40035c879f7e5
+
+* shawak's requested changes
+
+* update sector names
+
+no one has opposed them yet, so we'll give them a try
+
+* oops, accidentally modified english bundle, reverting
+
+* update translation to a54907583bece807004a61d6650ca710403c9718
+
+* changes as requested by shawak
+
+* update to 522070be4b1d3f363dd2796f96de19c9ccfd7500
+
+* @stuffyAI's changes
+
+* update to https://github.com/Anuken/Mindustry/commit/69a735446845acc16b1a63f20e5b419e7b659623
+
+* remove duplicate entries
+
+new translations are quite plentiful, will take a bit to get done
+
+* update to https://github.com/Anuken/Mindustry/commit/99df85df1c4acdd8c347f22a3116d7f962140229
+
+* vereinheitlichung - siehe commitbeschreibung
+
+unterschied zwischen items und materialien verdeutlichen
+vereinheitlichung von 'fracht' als begriff für 'payload'
+
+ich halte diese verändernungnen für vernünftig, bin aber wie immer offen für andere vorschläge
+
+bei 'materialeinheiten' (unit.items, zeile 976) bin ich mir unsicher, ob der begriff inzwischen veraltet ist (stattdessen lieber items?) - er wird nur an zwei stellen benutzt, die nur vor jahren bearbeitet wurden. ich habe ihn erstmal beibehalten.
+
+* update to f968a8689c58c64cdc02b8f461d3757234b4e122
+
+* update to https://github.com/Anuken/Mindustry/commit/85228bad0ab334874b702c74e79338f956b69f68
+
+* update to https://github.com/Anuken/Mindustry/commit/e3d1a04626568680d57472959613a6c112f24101
+
+* update to https://github.com/Anuken/Mindustry/commit/634ece405f875d73df36e979b8572a156f516016
+
+I'll probably be keeping this PR more up to date as we get closer to v7 release date, feel free to unsub from the PR if it gets annoying.
+
+* update to https://github.com/Anuken/Mindustry/commit/ebb37f4abe6593f65b5fa3707e81781be1d0015b
+
+* der Mod -&gt; die Mod
+
+Mod, abgeleitet von Modifikation (f), sollte mMn weiterhin feminin bleiben.
+
+* update to https://github.com/Anuken/Mindustry/commit/8f9736d1d9597c288778b6e1711e5147685bbe4b
+
+* update to https://github.com/Anuken/Mindustry/commit/c3d9a501c6a8fb417d8b0f32c0f681c3ff338cba
+
+hopefully final update
+
+* add changes from https://github.com/Anuken/Mindustry/pull/6999/files
+
+Co-authored-by: end-me-please &lt;90796271+end-me-please@users.noreply.github.com&gt;
+
+Co-authored-by: end-me-please &lt;90796271+end-me-please@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a04cb0</div>
+                                        <div class="message">Update servers_v7.json (#7855)
+
+Currently still in v6 but as soon as v7 is the official version on Steam tomorrow i will migrate to v7, please add the address/ddns beforehand so my users dont have to wait for the server to be added tomorrow. Thank you!
+(Currently Sectorized v7 is reachable under the port 6568, so sectorized.freeddns.org:6568 but i will change to port back to the default mindustry port tomorrow)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a11ac6</div>
+                                        <div class="message">fixes (#7856)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89e3f2a</div>
+                                        <div class="message">Automatic bundle update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5440ffc</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fe38e8</div>
+                                        <div class="message">Better fix for #7854</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcca002</div>
+                                        <div class="message">
+                                            [Translation] RU V7 translation (#7785)
+
+* [Translation] RU V7 translation
+
+* Категории процессоров
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+*
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            * Update bundle_ru.properties
+
+* скилл исьюше
+
+* Подсказки для командного режима
+
+* Немного перевел цели секторов
+
+* попробовал сделать описания юнитов :/
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* дрели
+
+* Create bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* нагрев -&gt; тепло
+
+* Подсказки
+
+* Update contributors
+
+* Update bundle_ru.properties
+
+* скилл иссуе
+
+* Update bundle_ru.properties
+
+Co-authored-by: Evgenij &lt;86189625+Kowkodivka@users.noreply.github.com&gt;
+Co-authored-by: Slotterleet &lt;62336673+Slotterleet@users.noreply.github.com&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11e3537</div>
+                                        <div class="message">Update bundle_pl because 11.11 is close (#7853)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e90269</div>
+                                        <div class="message">Less floating menu buttons</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1651dc5</div>
+                                        <div class="message">Better inset borders for phones</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef526a6</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be72da7</div>
+                                        <div class="message">map name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0303e8</div>
+                                        <div class="message">Update bundle_ko.properties (#7850)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37f1760</div>
+                                        <div class="message">Renamed 'erekir waves map'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d255b3</div>
+                                        <div class="message">Fixed #7852</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1842e9d</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f7419d</div>
+                                        <div class="message">Fixed #7851</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56eb1a0</div>
+                                        <div class="message">Revert "Fixing a mistake I made (#7788)"
+
+This reverts commit 3c7ddc83759c01153f7c2124c380db01e8d9cf62.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">mindustry-antigrief/mindustry-client</span>
                                     </div>
@@ -1907,127 +2130,6 @@ wow this took a really long time</div>
                                     <div class="commit">
                                         <div class="sha">#2917755</div>
                                         <div class="message">Do not use isOrigin for before build placed</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">mindustry-antigrief/mindustry-client</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v7</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#570fd44</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/feature-fix-attem-83-logic' into v7
-
-# Conflicts:
-#	core/src/mindustry/client/Client.kt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62d919a</div>
-                                        <div class="message">Minor tweaks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a09adb</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/v7' into v7
-
-# Conflicts:
-#	core/src/mindustry/Vars.java
-#	core/src/mindustry/client/Client.kt
-#	core/src/mindustry/client/ClientLogic.kt
-#	core/src/mindustry/client/ClientVars.java
-#	core/src/mindustry/core/Renderer.java
-#	core/src/mindustry/input/DesktopInput.java
-#	core/src/mindustry/logic/LCanvas.java
-#	core/src/mindustry/ui/fragments/HudFragment.java</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#009189b</div>
-                                        <div class="message">forArea replacement</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9d8eb0</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/v7' into v7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d57555</div>
-                                        <div class="message">Not needed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e03e00</div>
-                                        <div class="message">Delete ConfigRequestBlockType.java</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c6f6b4</div>
-                                        <div class="message">save version compatibility <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec1a2b1</div>
-                                        <div class="message">finally fixed the bundle name</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#549d61c</div>
-                                        <div class="message">)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a4fb8b</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/v7' into v7
-
-# Conflicts:
-#	build.gradle
-#	core/assets/bundles/bundle.properties
-#	core/src/mindustry/client/ClientLogic.kt
-#	core/src/mindustry/client/antigrief/Interactor.kt
-#	core/src/mindustry/game/Schematics.java
-#	core/src/mindustry/input/DesktopInput.java
-#	core/src/mindustry/input/InputHandler.java
-#	core/src/mindustry/ui/dialogs/SettingsMenuDialog.java</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f45f259</div>
-                                        <div class="message">Interpolate cursor: Fix embed detection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1da1449</div>
-                                        <div class="message">Split core-related alerts and player-sent coordinates to different tracked values</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#615b107</div>
-                                        <div class="message">Import cleanup h</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ecadc0</div>
-                                        <div class="message">Interpolate cursor positions
-
-Shift+click spectate button in player list will spectate cursor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd0a4af</div>
-                                        <div class="message">Make regex more general</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be6fbc0</div>
-                                        <div class="message">Remove duplicated setting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b1f522</div>
-                                        <div class="message">kekw</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86d3d78</div>
-                                        <div class="message">Importn't</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a998432</div>
-                                        <div class="message">Interactor uses colored name</div>
                                     </div>
                                 </div>
                             </section>
@@ -2298,7 +2400,7 @@ Shift+click spectate button in player list will spectate cursor</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Nov 2022, 19:54:07 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 11 Nov 2022, 20:49:34 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
