@@ -27,7 +27,7 @@ on:
         required: true
   push:
     branches:
-      - "test"
+      # - "test"
       - "main"
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@latest
         with:
           fetch-depth: 0
       - name: Update metrics
