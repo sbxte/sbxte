@@ -65,7 +65,7 @@ jobs:
 
           # Activity
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 8
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_visibility: public
@@ -103,8 +103,8 @@ jobs:
           plugin_people_types: followers, following
 
           # Stargazers
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: graph
+          # plugin_stargazers: yes
+          # plugin_stargazers_charts_type: graph
 
           # Projects
           plugin_projects: yes
