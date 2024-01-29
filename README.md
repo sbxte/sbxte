@@ -40,5 +40,5 @@ Not including other smaller projects.
 I don't know what else to put here so here's my metrics. Don't expect much.
 
 <div align="center">
-   <img alt='Metrics' src='https://github.com/stormybytes/stormybytes/blob/main/github-metrics.svg'>
+   <img alt='Metrics' src='https://github.com/stormybytes/stormybytes/blob/data/github-metrics.svg'>
 </div>
