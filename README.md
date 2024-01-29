@@ -8,16 +8,25 @@
 I also use other tools sometimes. These are just some of my favorites.
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
-<a href="https://github.com/openjdk/jdk" target="_blank" rel="noreferrer">
+<a href="https://neovim.io/" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="NeoVim" width="40" height="40"/>
+</a>
+<a href="https://openjdk.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>
-<a href="https://github.com/rust-lang/rust" target="_blank" rel="noreferrer">
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
 </a>
-<a href="https://github.com/lua/lua" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" alt="Lua" width="40" height="40"/>
+<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+<a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
 </a>
 
 
