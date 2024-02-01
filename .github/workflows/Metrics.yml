@@ -3,7 +3,7 @@ on:
   # Schedule updates (24 hour cycle)
   schedule:
     - cron: '0 * * * *'
-  # Lines below let you run workflow manually and on each commit
+      # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   workflow_call:
     secrets:
@@ -41,13 +41,13 @@ jobs:
       - name: Update metrics
         uses: lowlighter/metrics@latest
         with:
-        # Plugin error
+          # Plugin error
           plugins_errors_fatal: yes
 
-        # Token
+          # Token
           token: ${{ secrets.METRICS }}
 
-        # Options
+          # Options
           user: StormyBytes
           template: classic
           base: header, activity, community, repositories, metadata
