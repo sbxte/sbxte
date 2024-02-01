@@ -5,11 +5,8 @@
 
 ## Tools
 
-I also use other tools sometimes. These are just some of my favorites.
+Some of the tools I use.
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</a>
 <a href="https://neovim.io/" target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="NeoVim" width="40" height="40"/>
 </a>
@@ -28,7 +25,12 @@ I also use other tools sometimes. These are just some of my favorites.
 <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
 </a>
-
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/>
+</a>
 
 ## Contributions
 
