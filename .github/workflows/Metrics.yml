@@ -91,7 +91,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_threshold: 4%
-          plugin_languages_ignored: css, scss, html, php, less
+          plugin_languages_ignored: CSS, SCSS, HTML, PHP, Less
 
           # Code changes (lines)
           plugin_lines: yes
