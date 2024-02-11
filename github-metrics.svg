@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    44.1k added, 17.6k removed
+                                    44.7k added, 18.2k removed
                                 </div>
                             </section>
                             <section>
@@ -357,19 +357,19 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,18.20888083371093)">
+                            <g class="tick" opacity="1" transform="translate(0,16.65955494379446)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,48.90666062528318)">
+                            <g class="tick" opacity="1" transform="translate(0,47.744666207845846)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">3.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,79.60444041685545)">
+                            <g class="tick" opacity="1" transform="translate(0,78.82977747189723)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,110.30222020842771)">
+                            <g class="tick" opacity="1" transform="translate(0,109.91488873594861)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">1.0k</text>
                             </g>
@@ -377,25 +377,25 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,171.69777979157226)">
+                            <g class="tick" opacity="1" transform="translate(0,172.0851112640514)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,202.39555958314455)">
+                            <g class="tick" opacity="1" transform="translate(0,203.17022252810276)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,233.0933393747168)">
+                            <g class="tick" opacity="1" transform="translate(0,234.25533379215415)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−3.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,263.7911191662891)">
+                            <g class="tick" opacity="1" transform="translate(0,265.3404450562055)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L47.204,140.5L55.408,140.5L63.612,140.5L137.449,140.5L145.653,140.5L170.265,140.5L186.673,140.5L194.878,140.5L260.51,140.5L391.776,140.5L399.98,140.5L408.184,140.5L432.796,140.5L441,140.5L441,72.566L432.796,5L408.184,137L399.98,96.264L391.776,28.115L260.51,140.285L194.878,139.671L186.673,139.211L170.265,138.566L145.653,140.132L137.449,138.535L63.612,140.347L55.408,128.743L47.204,91.598L39,43.955Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L47.204,140.5L55.408,140.5L63.612,140.5L137.449,140.5L145.653,140.5L170.265,140.5L186.673,140.5L194.878,140.5L260.51,140.5L391.776,140.5L399.98,140.5L408.184,140.5L432.796,140.5L441,140.5L441,198.304L432.796,245.241L408.184,143.293L399.98,144.675L391.776,240.851L260.51,140.776L194.878,140.684L186.673,140.623L170.265,140.93L145.653,140.623L137.449,145.135L63.612,140.592L55.408,146.179L47.204,180.653L39,145.35Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L47.204,140.5L55.408,140.5L63.612,140.5L137.449,140.5L145.653,140.5L162.061,140.5L170.265,140.5L186.673,140.5L194.878,140.5L260.51,140.5L391.776,140.5L399.98,140.5L432.796,140.5L441,140.5L441,69.129L432.796,5L399.98,138.479L391.776,26.697L260.51,140.345L194.878,139.661L186.673,139.194L170.265,138.542L162.061,136.366L145.653,140.127L137.449,138.511L63.612,140.345L55.408,128.594L47.204,91.261L39,42.737Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L47.204,140.5L55.408,140.5L63.612,140.5L137.449,140.5L145.653,140.5L162.061,140.5L170.265,140.5L186.673,140.5L194.878,140.5L260.51,140.5L391.776,140.5L399.98,140.5L432.796,140.5L441,140.5L441,201.644L432.796,246.345L399.98,142.396L391.776,242.117L260.51,140.718L194.878,140.687L186.673,140.624L170.265,140.935L162.061,140.593L145.653,140.624L137.449,145.194L63.612,140.593L55.408,146.251L47.204,181.128L39,145.411Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -1999,7 +1999,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>postgres/postgres</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch</div>
@@ -2659,7 +2659,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 26.3k out of 84m repositories</span>
+                                    <span class="gh">ranked 26.3k out of 80.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1751</div>
                                     </div>
@@ -3034,7 +3034,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.62m out of 84m repositories</span>
+                                    <span class="gh">ranked 2.62m out of 80.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -3161,7 +3161,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2024, 03:08:56 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Feb 2024, 04:08:34 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
