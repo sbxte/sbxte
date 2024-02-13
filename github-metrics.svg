@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    46.1k added, 17.1k removed
+                                    20.9k added, 11.6k removed
                                 </div>
                             </section>
                             <section>
@@ -229,12 +229,6 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">StormyBytes/LogiDustry</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
                             <span class="diff-handle">StormyBytes/nvim-configs</span>
                         </div>
                         <div class="field">
@@ -249,20 +243,14 @@
                             </svg>
                             <span class="diff-handle">StormyBytes/ecanteen-2023</span>
                         </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">StormyBytes/learn</span>
+                        </div>
                     </section>
                     <section>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +22.3k</span>
-                                <span class="deleted"> -5.67k</span>
-                            </div>
-                            <span> </span>
-                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -296,6 +284,18 @@
                             <div class="diff-stats">
                                 <span class="added"> +2.96k</span>
                                 <span class="deleted">   -636</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +3.35k</span>
+                                <span class="deleted">   -178</span>
                             </div>
                             <span> </span>
                         </div>
@@ -357,19 +357,19 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,18.20888083371093)">
+                            <g class="tick" opacity="1" transform="translate(0,17.085962505715578)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,48.90666062528318)">
+                            <g class="tick" opacity="1" transform="translate(0,48.06447187928671)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">3.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,79.60444041685545)">
+                            <g class="tick" opacity="1" transform="translate(0,79.0429812528578)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,110.30222020842771)">
+                            <g class="tick" opacity="1" transform="translate(0,110.02149062642891)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">1.0k</text>
                             </g>
@@ -377,25 +377,25 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,171.69777979157226)">
+                            <g class="tick" opacity="1" transform="translate(0,171.9785093735711)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,202.39555958314455)">
+                            <g class="tick" opacity="1" transform="translate(0,202.95701874714217)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,233.0933393747168)">
+                            <g class="tick" opacity="1" transform="translate(0,233.93552812071334)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−3.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,263.7911191662891)">
+                            <g class="tick" opacity="1" transform="translate(0,264.91403749428434)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L47.04,140.5L55.08,140.5L63.12,140.5L135.48,140.5L143.52,140.5L159.6,140.5L167.64,140.5L183.72,140.5L191.76,140.5L256.08,140.5L384.72,140.5L392.76,140.5L400.8,140.5L424.92,140.5L432.96,140.5L441,140.5L441,50.463L432.96,62.405L424.92,5L400.8,137L392.76,96.264L384.72,28.115L256.08,140.285L191.76,139.671L183.72,139.211L167.64,138.566L159.6,136.417L143.52,140.132L135.48,138.535L63.12,140.347L55.08,128.743L47.04,91.598L39,43.955Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L47.04,140.5L55.08,140.5L63.12,140.5L135.48,140.5L143.52,140.5L159.6,140.5L167.64,140.5L183.72,140.5L191.76,140.5L256.08,140.5L384.72,140.5L392.76,140.5L400.8,140.5L424.92,140.5L432.96,140.5L441,140.5L441,143.386L432.96,203.43L424.92,245.241L400.8,143.293L392.76,144.675L384.72,240.851L256.08,140.776L191.76,140.684L183.72,140.623L167.64,140.93L159.6,140.592L143.52,140.623L135.48,145.135L63.12,140.592L55.08,146.179L47.04,180.653L39,145.35Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L47.04,140.5L55.08,140.5L63.12,140.5L135.48,140.5L143.52,140.5L159.6,140.5L167.64,140.5L183.72,140.5L191.76,140.5L256.08,140.5L384.72,140.5L392.76,140.5L424.92,140.5L432.96,140.5L441,140.5L441,49.64L432.96,56.486L424.92,5L392.76,138.486L384.72,27.088L256.08,140.283L191.76,139.664L183.72,139.199L167.64,138.548L159.6,136.38L143.52,140.128L135.48,138.517L63.12,140.345L55.08,128.635L47.04,91.151L39,43.073Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L47.04,140.5L55.08,140.5L63.12,140.5L135.48,140.5L143.52,140.5L159.6,140.5L167.64,140.5L183.72,140.5L191.76,140.5L256.08,140.5L384.72,140.5L392.76,140.5L424.92,140.5L432.96,140.5L441,140.5L441,143.412L432.96,204.13L424.92,246.013L392.76,142.39L384.72,241.769L256.08,140.779L191.76,140.686L183.72,140.624L167.64,140.934L159.6,140.593L143.52,140.624L135.48,145.178L63.12,140.593L55.08,146.231L47.04,181.02L39,145.395Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -2121,7 +2121,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>StormyBytes/nvim-configs</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Config files for neovim</div>
@@ -2679,7 +2679,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 26.3k out of 61.2m repositories</span>
+                                    <span class="gh">ranked 26.3k out of 80.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1753</div>
                                     </div>
@@ -3054,7 +3054,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.62m out of 61.2m repositories</span>
+                                    <span class="gh">ranked 2.62m out of 80.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -3181,7 +3181,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2024, 13:13:08 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2024, 14:08:49 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
