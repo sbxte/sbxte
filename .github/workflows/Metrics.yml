@@ -48,7 +48,7 @@ jobs:
           token: ${{ secrets.METRICS }}
 
           # Options
-          user: StormyBytes
+          user: sbxte
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
