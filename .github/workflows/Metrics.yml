@@ -92,7 +92,7 @@ jobs:
           plugin_languages_details: lines, bytes-size
           # plugin_languages_threshold: 1%
           plugin_languages_ignored: css, scss, html, php, less
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           plugin_languages_analysis_timeout: 15
 
           # Code changes (lines)
