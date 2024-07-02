@@ -114,11 +114,12 @@ jobs:
           plugin_projects_limit: 4
 
           # Notable contributions
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_skipped: CancerStop/CancerStop
           plugin_notable_types: commit
+          plugin_notable_indepth: yes
 
           # Reactions
           plugin_reactions: yes
