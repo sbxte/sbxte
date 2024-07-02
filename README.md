@@ -8,7 +8,7 @@
 Some of the tools I use.
 
 <a href="https://neovim.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="NeoVim" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" alt="NeoVim" width="40" height="40"/>
 </a>
 <a href="https://openjdk.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
