@@ -23,11 +23,11 @@ Some of the tools I use.
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
 <!-- Unfortunately, C does not have an official website -->
-<!-- <a href="" target="_blank" rel="noreferrer"> -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="Python" width="40" height="40"/>
-<!-- </a> -->
+<a href="" target="_blank" rel="noreferrer"> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</a>
 <a href="https://cplusplus.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a>
 <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
