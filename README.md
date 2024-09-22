@@ -47,10 +47,10 @@ Currently working on
 
 Some of my more known projects and contributions.
 
-- [Foo's Client](https://github.com/mindustry-antigrief/mindustry-client) - A mindustry fork focusing on QoL and extended client features.
+- [Foo's Client](https://github.com/mindustry-antigrief/mindustry-client) - A mindustry fork focusing on QoL and extended client features. [Click here](https://mindustry.dev)
 - [Schematic Browser](https://github.com/sbxte/mindustry-schematic-browser) - A schematic browser for mindustry.
 - [Logidustry](https://github.com/sbxte/LogiDustry) - My collection of mindustry logic projects.
-- [Meteor Client](https://github.com/MeteorDevelopment/meteor-client) - A utility client for the latest version of Minecraft Java.
+- [Meteor Client](https://github.com/MeteorDevelopment/meteor-client) - A utility client for the latest version of Minecraft Java. [Click here](https://meteorclient.com)
 - [Meteor Rejects](https://github.com/AntiCope/meteor-rejects) - A meteor client addon with miscellaneous and rejected features.
 - [Anticope.ml](https://github.com/AntiCope/anticope.ml) - A meteor client addon browser. [Click here](https://anticope.pages.dev/)
 
