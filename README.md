@@ -41,10 +41,6 @@ Some of the tools I use.
 
 ## Contributions
 
-Currently working on 
-
-- [Tuesday](https://github.com/sbxte/tuesday) - A personal task manager utilizing graphs instead of lists.
-
 Some of my more known projects and contributions.
 
 - [Foo's Client](https://github.com/mindustry-antigrief/mindustry-client) - A mindustry fork focusing on QoL and extended client features. [Click here](https://mindustry.dev)
