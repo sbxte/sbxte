@@ -7,37 +7,11 @@
 
 Some of the tools I use.
 
-<a href="https://neovim.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" alt="NeoVim" width="40" height="40"/>
-</a>
-<a href="https://openjdk.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
-</a>
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<!-- Unfortunately, C does not have an official website -->
-<a href="" target="_blank" rel="noreferrer"> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</a>
-<a href="https://cplusplus.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
-<a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/>
-</a>
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank" rel="noreferrer" style="text-decoration: none">
+    <img src="https://skillicons.dev/icons?i=git,rust,neovim,python,java,c,cpp&perline=10" />
+  </a>
+</p>
 
 ## Contributions
 
