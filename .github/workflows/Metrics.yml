@@ -27,7 +27,7 @@ on:
         required: true
   push:
     branches:
-      # - "test"
+      - "test"
       - "main"
 
 jobs:
@@ -39,7 +39,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Update metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           # Plugin error
           plugins_errors_fatal: no
