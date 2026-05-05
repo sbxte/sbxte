@@ -9,7 +9,7 @@
             <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/png;base64,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" width="20" height="20" />
-                    <span>SByte</span>
+                    <span>Daniel C</span>
                 </h1>
                 <div class="row">
                     <section>
@@ -35,15 +35,15 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 23 repositories
+                            Contributed to 24 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6997 Commits
+                            7001 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -239,7 +239,7 @@
                 </h2>
             </section>
             <div class="column largeable">
-                <h3>On SByte's repositories</h3>
+                <h3>On Daniel C's repositories</h3>
                 <div class="row fill-width">
                     <section class="column">
                         <h3 class="no-margin-top">Issues</h3>
@@ -333,7 +333,7 @@
                 </div>
             </div>
             <div class="column largeable">
-                <h3>Created by SByte</h3>
+                <h3>Created by Daniel C</h3>
                 <div class="row fill-width">
                     <section class="column">
                         <h3 class="no-margin-top">Issues</h3>
@@ -436,7 +436,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 5.10mb of code in 2773 edited files across 1003 commits</small>
+                <small>estimation from 5.10mb of code in 2776 edited files across 1006 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2091,7 +2091,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 May 2026, 16:55:12 (timezone Asia/Jakarta) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 May 2026, 18:12:09 (timezone Asia/Jakarta) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
